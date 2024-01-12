@@ -1,3 +1,5 @@
+# Monsters Application
+
 This is a simple react project covering basics of react.
 
 ### Clone the repo and open terminal
